@@ -1,0 +1,28 @@
+Input1
+1
+4
+2
+5
+3
+Output - Player one is the winner.
+
+Input2
+1
+2
+4
+5
+3
+8
+Output - Player two is the winner.
+
+Input3
+1
+2
+5
+9
+6
+4
+7
+3
+8
+Output - No one wins.
